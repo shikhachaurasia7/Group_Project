@@ -5,14 +5,7 @@ We worked on COVID-19 data to clean, analyze, and present it.
 ## What We Did
 My Work:
 
-Fetched the dataset from data.gov.in.
-Loaded it into Python for cleaning.
-Dropped unnecessary columns.
-Created a new column.
-Changed data types and renamed columns for SQL analysis.
-Filled missing values using fillna().
-Removed rows where the state was "India".
-Downloaded the cleaned dataset for SQL.
+I fetched the dataset from data.gov.in, loaded it into Python for cleaning, dropped unnecessary columns, created a new column, changed the data types and renamed columns for SQL analysis, filled missing values using fillna(), removed rows where the state was "India", and finally downloaded the cleaned dataset for SQL analysis.
 
 Member 2 Work:
 Used MySQL for deep analysis on the cleaned data.
@@ -22,13 +15,8 @@ Created a dashboard using Power BI.
 
 ## Final Step:
 I created a PowerPoint (PPT) presentation to show the project.
-
 Technologies Used
-
-Python (Pandas, Numpy)
-
-MySQL
-
-Power BI
-
-MS PowerPoint
+,Python (Pandas, Numpy)
+,MySQL
+,Power BI
+,MS PowerPoint
