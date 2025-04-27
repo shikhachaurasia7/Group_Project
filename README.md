@@ -22,8 +22,13 @@ Created a dashboard using Power BI.
 
 ## Final Step:
 I created a PowerPoint (PPT) presentation to show the project.
+
 Technologies Used
+
 Python (Pandas, Numpy)
+
 MySQL
+
 Power BI
+
 MS PowerPoint
